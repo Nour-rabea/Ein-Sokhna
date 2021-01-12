@@ -1,4 +1,4 @@
-Leaflet Map https://nour-rabea.github.io/Ein-Sokhna/
+Leaflet Map 
 
 ## دليل العين السخنه
 جميع قرى العين السخنه
