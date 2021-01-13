@@ -9,4 +9,4 @@
 <iframe src="https://www.google.com/maps/d/embed?mid=1tf2QF4gb3HtwodAP9akl8tg7KmQNZMTH" width="940" height="680"></iframe>
 
 ## Presentation
-<iframe src="https://drive.google.com/file/d/13Lu5cP9YIS-6NJfesXr8Fr0BMF7U92DD/preview" width="940" height="880"></iframe>
+<iframe src="https://drive.google.com/file/d/13Lu5cP9YIS-6NJfesXr8Fr0BMF7U92DD/preview" width="1100" height="880"></iframe>
