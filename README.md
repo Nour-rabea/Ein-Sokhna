@@ -1,3 +1,10 @@
+<head>
+    <title>Ein-Sokhna</title>
+    <link rel="icon" type="image/png" href="favicon.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+<head>
+  
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvDdkXVqTzxQ6x1LOsZ-d3dKwvqBhbIQp8D2rILYKU8TjiaelaTtxJo0EZYPRiuoIRILQFaV6WiXWC/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="1050" height="500"></iframe>
 
 # Analysis
