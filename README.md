@@ -1,6 +1,6 @@
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvDdkXVqTzxQ6x1LOsZ-d3dKwvqBhbIQp8D2rILYKU8TjiaelaTtxJo0EZYPRiuoIRILQFaV6WiXWC/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="1050" height="500"></iframe>
 
-# Pyramids
+# Pyramids Data ..
 تفاصيل مشروع sky city
 
 Delivery after 3,5 years
@@ -13,13 +13,13 @@ Payment Plan
 
 انظمه العائد الفورى واول قسط بعد الاستلام
 
-٣٠٪ واول قسط بعد الاستلام + عائد فورى ١٢٪ لمده سنتين ونص
+٣٠٪ + عائد فورى ١٢٪ لمده سنتين ونص
 
-٣٥٪ واول قسط بعد الاستلام + عائد فورى ١٤٪ لمده سنيتن ونص
+٣٥٪ + عائد فورى ١٤٪ لمده سنيتن ونص
 
-٤٠٪ واول قسط يعد الاستلام + عائد فورى ١٦٪ لمده سنتين ونص
+٤٠٪ + عائد فورى ١٦٪ لمده سنتين ونص
 
-٥٠٪ واول قسط بعد الاستلام + عائد فورى ١٧٪ لمده سنتين ونص
+٥٠٪ + عائد فورى ١٧٪ لمده سنتين ونص
 
 ملحوظه 
 
