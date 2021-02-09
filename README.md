@@ -1,6 +1,6 @@
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvDdkXVqTzxQ6x1LOsZ-d3dKwvqBhbIQp8D2rILYKU8TjiaelaTtxJo0EZYPRiuoIRILQFaV6WiXWC/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="1050" height="500"></iframe>
 
-#Pyramids ...
+# Pyramids
 Delivery after 3,5 years
 Payment Plan
 ٥٪ مقدم بعد ٣ شهور ٥٪ والباقى على ٨ سنوات 
