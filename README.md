@@ -1,6 +1,7 @@
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvDdkXVqTzxQ6x1LOsZ-d3dKwvqBhbIQp8D2rILYKU8TjiaelaTtxJo0EZYPRiuoIRILQFaV6WiXWC/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="1050" height="500"></iframe>
 
 # Pyramids
+تفاصيل مشروع sky city
 Delivery after 3,5 years
 Payment Plan
 ٥٪ مقدم بعد ٣ شهور ٥٪ والباقى على ٨ سنوات 
@@ -21,14 +22,16 @@ Payment Plan
    <iframe src="https://drive.google.com/file/d/1lFtGh24AcyVew8WYMXmHlSlC9fBeeZLg/view?usp=sharing" width="900" height="490"></iframe>
 
 # Analysis
+مقارنة بين المشاريع في الاسعار
    <iframe width="940" height="565" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvDdkXVqTzxQ6x1LOsZ-d3dKwvqBhbIQp8D2rILYKU8TjiaelaTtxJo0EZYPRiuoIRILQFaV6WiXWC/pubchart?oid=187743359&amp;format=interactive"></iframe>
 
+مقارنة بين المشاريع في اطول فترة سداد
    <iframe width="940" height="530" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvDdkXVqTzxQ6x1LOsZ-d3dKwvqBhbIQp8D2rILYKU8TjiaelaTtxJo0EZYPRiuoIRILQFaV6WiXWC/pubchart?oid=1549540456&amp;format=interactive"></iframe>
 
-# Map
+# الخريطه لتوضيح مواقع المشاريع علي البحر
    <iframe src="https://www.google.com/maps/d/embed?mid=1tf2QF4gb3HtwodAP9akl8tg7KmQNZMTH" width="940" height="680"></iframe>
 
-# Presentation
+# تفاصيل بقية المشاريع
    <iframe src="https://drive.google.com/file/d/13Lu5cP9YIS-6NJfesXr8Fr0BMF7U92DD/preview" width="900" height="490"></iframe>
 
 ## Copyrights
