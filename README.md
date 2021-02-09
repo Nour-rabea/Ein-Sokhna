@@ -51,7 +51,7 @@ Villas Average Price 5,500,000 (Max 8,000,000)
 
 ## Areas
 بروشور الشركة موضح المساحات والتقسيمات الداخليه مع الـ Layout
-<iframe src="https://drive.google.com/file/d/1lFtGh24AcyVew8WYMXmHlSlC9fBeeZLg" width="900" height="490"></iframe>
+<iframe src="https://drive.google.com/file/d/1lFtGh24AcyVew8WYMXmHlSlC9fBeeZLg/view?usp=sharing" width="900" height="490"></iframe>
 
 # Analysis
 مقارنة بين المشاريع في الاسعار
