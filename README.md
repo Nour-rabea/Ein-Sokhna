@@ -34,7 +34,7 @@ Payment Plan
 
 10% وديعه صيانه
 
-<iframe src="https://drive.google.com/file/d/1lFtGh24AcyVew8WYMXmHlSlC9fBeeZLg/view?usp=sharing" width="900" height="490"></iframe>
+<iframe src="https://drive.google.com/drive/recent" width="900" height="490"></iframe>
 
 # Analysis
 مقارنة بين المشاريع في الاسعار
