@@ -14,8 +14,7 @@
    <iframe src="https://www.google.com/maps/d/embed?mid=1tf2QF4gb3HtwodAP9akl8tg7KmQNZMTH" width="940" height="680"></iframe>
 
 # تفاصيل بقية المشاريع
-   <iframe src="https://docs.google.com/presentation/d/1sRKYqC-Nk0MClsv2vty5RAAADSYumPWr/edit#slide=id.p4" width="900" height="490"></iframe>
-   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQt1t8AumnHYAcU9JlbAVtXI48MtIahSX8FnI28grwpIy3b62ivj-6h6SjU57CK_g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQt1t8AumnHYAcU9JlbAVtXI48MtIahSX8FnI28grwpIy3b62ivj-6h6SjU57CK_g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="940" height="680" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Copyrights
    <iframe src="nour signature.jpg" width="700" height="200"></iframe>
