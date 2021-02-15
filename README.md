@@ -13,7 +13,7 @@
 # الخريطه لتوضيح مواقع المشاريع علي البحر
    <iframe src="https://www.google.com/maps/d/embed?mid=1tf2QF4gb3HtwodAP9akl8tg7KmQNZMTH" width="940" height="680"></iframe>
 
-# تفاصيل بقية المشاريع
+# تفاصيل المشاريع
    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQt1t8AumnHYAcU9JlbAVtXI48MtIahSX8FnI28grwpIy3b62ivj-6h6SjU57CK_g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="940" height="580" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Copyrights
